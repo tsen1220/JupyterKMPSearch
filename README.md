@@ -2,8 +2,8 @@
 
 Develop the String Search by Knuth-Morris-Pratt Algorithm.
 
-We need the failure function to check pattern which characters can skip in order to 
-reduce time complexity.
+We need the failure function to check pattern's prefix and suffix which characters can skip in order to 
+reduce string search time complexity.
 
 ```
 
