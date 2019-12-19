@@ -2,7 +2,7 @@
 
 Develop the String Search by Knuth-Morris-Pratt Algorithm.
 
-We need the failure function to check pattern's prefix and suffix which characters can skip when we search.
+We need the failure function to check pattern's prefix and suffix which characters can skip next when we search failed.
 
 In order to improve string search process.
 
